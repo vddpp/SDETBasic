@@ -2,7 +2,7 @@
 <suite name="Capstone Suite">
     <test name="Cucumber Test">
         <classes>
-            <class name="com.capstone.runner.CucumberTestRunner"/>
+            <class name="runner.CucumberTestRunner"/>
         </classes>
     </test>
 </suite>	
